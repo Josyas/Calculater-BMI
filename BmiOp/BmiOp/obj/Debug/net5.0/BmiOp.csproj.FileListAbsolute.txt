@@ -1,0 +1,16 @@
+D:\VisualStudioExercicios\BmiOp\BmiOp\bin\Debug\net5.0\BmiOp.exe
+D:\VisualStudioExercicios\BmiOp\BmiOp\bin\Debug\net5.0\BmiOp.deps.json
+D:\VisualStudioExercicios\BmiOp\BmiOp\bin\Debug\net5.0\BmiOp.runtimeconfig.json
+D:\VisualStudioExercicios\BmiOp\BmiOp\bin\Debug\net5.0\BmiOp.runtimeconfig.dev.json
+D:\VisualStudioExercicios\BmiOp\BmiOp\bin\Debug\net5.0\BmiOp.dll
+D:\VisualStudioExercicios\BmiOp\BmiOp\bin\Debug\net5.0\ref\BmiOp.dll
+D:\VisualStudioExercicios\BmiOp\BmiOp\bin\Debug\net5.0\BmiOp.pdb
+D:\VisualStudioExercicios\BmiOp\BmiOp\obj\Debug\net5.0\BmiOp.csproj.AssemblyReference.cache
+D:\VisualStudioExercicios\BmiOp\BmiOp\obj\Debug\net5.0\BmiOp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioExercicios\BmiOp\BmiOp\obj\Debug\net5.0\BmiOp.AssemblyInfoInputs.cache
+D:\VisualStudioExercicios\BmiOp\BmiOp\obj\Debug\net5.0\BmiOp.AssemblyInfo.cs
+D:\VisualStudioExercicios\BmiOp\BmiOp\obj\Debug\net5.0\BmiOp.csproj.CoreCompileInputs.cache
+D:\VisualStudioExercicios\BmiOp\BmiOp\obj\Debug\net5.0\BmiOp.dll
+D:\VisualStudioExercicios\BmiOp\BmiOp\obj\Debug\net5.0\ref\BmiOp.dll
+D:\VisualStudioExercicios\BmiOp\BmiOp\obj\Debug\net5.0\BmiOp.pdb
+D:\VisualStudioExercicios\BmiOp\BmiOp\obj\Debug\net5.0\BmiOp.genruntimeconfig.cache
